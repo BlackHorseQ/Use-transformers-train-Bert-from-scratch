@@ -1,4 +1,4 @@
-link of competition https://tianchi.aliyun.com/competition/entrance/531851/introduction
+link of competition https://tianchi.aliyun.com/competition/entrance/531851/introduction \n
 pretrain：train bert from scratch 
 train：finetune Bert
 predict: predict and get results
