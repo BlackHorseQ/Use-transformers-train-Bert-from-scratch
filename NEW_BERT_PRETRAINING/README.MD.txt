@@ -1,0 +1,1 @@
+1与旧版相比，主要是把transformers的api由BERTFORPRETRAINING 改为BERTMODEL进行预训练。2加入使用使用bert embedding层分数由原始的72——>80加,应该还有很大提升空间参考https://github.com/google-research/berthttps://github.com/bojone/oppo-text-match
